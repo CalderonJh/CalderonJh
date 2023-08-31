@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jhon Calderón
-- 👀 I’m interested in nothing really
-- 🌱 I’m currently learning programming, obvi
-- 💞️ I’m looking to collaborate on anything, please, I'm hungry
-- 📫 How to reach me ... why?
+- 👀 I’m interested in learning about new technologies and starting new projects.
+- 🌱 I’m currently learning spring 🍃and WebDev in general.
+- 💞️ I’m looking to collaborate on anything, what is there to do?
+  
 
 <!---
 CalderonJh/CalderonJh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
