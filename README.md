@@ -1,6 +1,4 @@
 # Hi! I'm Jhon Calderón
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=fff&width=435&lines=Full-Stack+Developer+in+process+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+like+to+learn+everything+about+technology++%F0%9F%92%9B)](https://git.io/typing-svg)
-
 <a href="https://www.linkedin.com/in/jhon-calderon-2aa341259/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"   />
 </a>
