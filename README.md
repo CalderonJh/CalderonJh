@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Jhon Calderón
-- 👀 I’m interested in learning about new technologies and starting new projects.
-- 🌱 I’m currently learning spring 🍃 and WebDev in general.
-- 💞️ I’m looking to collaborate on anything, what is there to do?
-
 # Hi! I'm Jhon Calderón
 
 <a href="https://www.linkedin.com/in/jhon-calderon-2aa341259/">
