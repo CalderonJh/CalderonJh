@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="45" height="45" alt="TypeScript" />
-<img src="svg/angular.svg" width="54" height="54" alt="Angular" />
+<img src="svg/angular.svg" width="50" height="54" alt="Angular" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" />
