@@ -20,11 +20,11 @@
 <img src="svg/spring.svg" width="42" height="42" alt="Spring" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" alt="TypeScript" />
-<img src="svg/angular.svg" width="50" height="50" alt="Angular" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="45" height="45" alt="TypeScript" />
+<img src="svg/angular.svg" width="54" height="54" alt="Angular" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" />
 
 <br><br>
 
