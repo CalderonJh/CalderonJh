@@ -2,13 +2,12 @@
 <a href="https://www.linkedin.com/in/jhon-calderon-2aa341259/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"   />
 </a>
-&nbsp;&nbsp;<a >Da clic aqui!</a>
-
+&nbsp&nbsp
 <a href="mailto:calderonjhondairo@gmail.com?subject=from%20github:%20&">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"   />
 </a>
 
-<br><br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Full-Stack+Developer+in+process.;What+is+there+to+do?)](https://github.com/CalderonJh?tab=repositories)
 
