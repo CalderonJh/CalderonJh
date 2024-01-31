@@ -8,12 +8,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"   />
 </a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=fff&width=435&lines=Full-Stack+Developer+in+process;What+is+there+to+do?)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Full-Stack+Developer+in+process.;What+is+there+to+do?)
 
-### Skills
-
+#### Stack Web
 <div>
-
 <!-- programming languages  --->
 <img src="svg/java.svg" width="40" height="36" alt="Java" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
