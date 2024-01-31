@@ -10,7 +10,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Full-Stack+Developer+in+process.;What+is+there+to+do?)
 
-#### Stack Web
+### Stack Web
 <div>
 <img src="svg/java.svg" width="40" height="36" alt="Java" />
 <img src="svg/spring.svg" width="32" height="32" alt="Spring" />
