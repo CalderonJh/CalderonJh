@@ -26,6 +26,8 @@
 <p align="left">
   <img src="svg/java.svg" width="36" height="36" alt="MongoDB" />
   <img src="svg/spring.svg" width="32" height="32" alt="MongoDB" />
+    
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </p>
 
