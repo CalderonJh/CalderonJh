@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="35" height="35" alt="TypeScript" />
 <img src="svg/angular.svg" width="40" height="40" alt="Angular" />
 
-<br>
+<br><br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="35" height="35" alt="Postgres" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
