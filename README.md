@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"   />
 </a>
 
+<br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Full-Stack+Developer+in+process.;What+is+there+to+do?)
 
