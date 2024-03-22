@@ -9,7 +9,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Full-Stack+Developer+in+process.;What+is+there+to+do?)](https://github.com/CalderonJh?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Full-Stack+Developer+in+process...;What+is+there+to+do?)](https://github.com/CalderonJh?tab=repositories)
 
 <hr>
 
