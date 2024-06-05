@@ -9,7 +9,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Full-Stack+Developer+in+process...;What+is+there+to+do?)](https://github.com/CalderonJh?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Back-End+Developer+in+process...;What+is+there+to+do?)](https://github.com/CalderonJh?tab=repositories)
 
 <hr>
 
@@ -18,13 +18,6 @@
 <img src="svg/java.svg" width="50" height="50" alt="Java" />
 <img src="svg/spring.svg" width="42" height="42" alt="Spring" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="45" height="45" alt="TypeScript" />
-<img src="svg/angular.svg" width="50" height="50" alt="Angular" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="45" alt="Postgres" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" />
 </div>
