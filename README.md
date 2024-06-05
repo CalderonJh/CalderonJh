@@ -10,7 +10,6 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Back-End+Developer+in+process...;What+is+there+to+do?)](https://github.com/CalderonJh?tab=repositories)
-
 <hr>
 
 ### Stack Web
