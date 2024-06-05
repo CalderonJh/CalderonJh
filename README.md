@@ -11,8 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Back-End+Developer+in+process...;What+is+there+to+do?)](https://github.com/CalderonJh?tab=repositories)
 <hr>
-
-### Stack Web
 <div>
 <img src="svg/java.svg" width="50" height="50" alt="Java" />
 <img src="svg/spring.svg" width="42" height="42" alt="Spring" />
