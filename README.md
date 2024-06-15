@@ -10,11 +10,16 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=fff&width=435&lines=Back-End+Developer!;What+is+there+to+do?)](https://github.com/CalderonJh?tab=repositories)
-<hr>
 <div>
 <img src="svg/java.svg" width="50" height="50" alt="Java" />
 <img src="svg/spring.svg" width="42" height="42" alt="Spring" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="45" alt="Postgres" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" />
+&nbsp;&nbsp;&nbsp;
+<img src="svg/docker.svg" width="48" height="48" alt="Postgres" />
+</div>
+<hr>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalderonJh&layout=compact&langs_count=16&theme=light" />
 </div>
